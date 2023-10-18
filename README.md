@@ -12,3 +12,5 @@ git comit -m "my commit message"
 
 Hello World 
 
+Love ya VS Code, hello Emmy 
+
