@@ -14,3 +14,11 @@ Hello World
 
 Love ya VS Code, hello Emmy 
 
+### To configure VS Code 
+git config --global user.email "emitooo852#@gmail.com" 
+git config -- global user.name "username" 
+
+Hello, why are you not changing 
+
+hellooo
+
